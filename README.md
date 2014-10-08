@@ -1,4 +1,5 @@
 # Brunch app
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/camwhite/bloc-jams?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is HTML5 application, built with [Brunch](http://brunch.io).
 

@@ -217,6 +217,8 @@ if (document.URL.match(/\/album.html/)) {
     changeAlbumView(albumPicasso);
  });
 }
+
+
 });
 
 ;require.register("scripts/app", function(exports, require, module) {

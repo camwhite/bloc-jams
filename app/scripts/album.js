@@ -124,3 +124,4 @@ if (document.URL.match(/\/album.html/)) {
     changeAlbumView(albumPicasso);
  });
 }
+

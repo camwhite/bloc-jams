@@ -44,6 +44,8 @@ blocJams.config(['$stateProvider', '$locationProvider', function($stateProvider,
    controller: 'Album.controller'
  });
 
+ 
+
 }]);
 
 blocJams.controller('Landing.controller', ['$scope', function($scope) {
